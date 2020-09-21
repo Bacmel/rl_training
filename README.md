@@ -1,2 +1,2 @@
-# rl_training
-TP on reinforcement learning by tabular methods
+# RL Training
+*TP on reinforcement learning by tabular methods*
